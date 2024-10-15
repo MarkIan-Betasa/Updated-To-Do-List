@@ -1,0 +1,15 @@
+.global-format {
+    text-align: center;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url('background.jpg');
+	background-size: cover;
+	background-position: center;
+}
+.header {
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+.background-reference {
+    position: fixed; bottom:10px; right:10px; 
+}
